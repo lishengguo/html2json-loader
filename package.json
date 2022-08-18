@@ -1,6 +1,6 @@
 {
   "name": "html2json-loader",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse HTML to JSON ",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/lishengguo/html2json-loader#readme",
   "dependencies": {
-    "html2json-parser": "0.0.2"
+    "html2json-parser": "0.0.3"
   }
 }
