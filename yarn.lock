@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-html2json-parser@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/html2json-parser/-/html2json-parser-0.0.2.tgz#ee0e010d53976c361a50ea3ec247d34f4a5308fd"
-  integrity sha512-SFfuiWJKhLSSDlbLbSqt/DSW0qMeUbOy6VPVy6hgDK/hp/WiCtElD7bytdgGas44WRraOPQFGGO7SUY/kLuHaA==
+html2json-parser@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/html2json-parser/-/html2json-parser-0.0.3.tgz#85a1bec39af5ebd445fa9d491e288a7f3ebaa2d3"
+  integrity sha512-HiisIHbGc8fiz5rGTZK+Bz7URX5iaSDQSyM4aNTarBaVSfNWKYipn+AmUfyjubHD+ifcBh59w2GK3UHJ+IbnTg==
